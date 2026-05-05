@@ -64,7 +64,7 @@ Each OG image features:
 
 Here's the OG image that was automatically generated for **this very post**:
 
-![Auto-generated OG image for this post](../../../assets/images/og-sample.png)
+![Auto-generated OG image for this post](../../../assets/images/posts/automatic-og-images/og-sample.png)
 
 ## Enabling / disabling
 
@@ -208,7 +208,7 @@ OG meta tag — the auto-generated image is not used:
 ```yaml
 ---
 title: My post with a custom OG
-heroImage: ../../../assets/images/my-custom-og.png
+heroImage: ../../../assets/images/posts/automatic-og-images/my-custom-og.png
 ---
 ```
 

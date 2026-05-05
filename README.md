@@ -8,7 +8,7 @@ It targets technical writers who want a fast, accessible, statically
 generated blog with first-class i18n, dark mode, and a modern
 authoring experience — without writing your own theme from scratch.
 
-![Chirping Astro device mockup](./src/assets/devices-mockup.png)
+![Chirping Astro device mockup](./src/assets/images/posts/welcome/devices-mockup.png)
 
 > **Live demo posts on this site walk through every feature in
 > detail.** Start with the hosted demo:

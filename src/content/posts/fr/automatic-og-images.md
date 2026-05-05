@@ -63,7 +63,7 @@ Chaque image OG présente :
 
 Voici l'image OG qui a été automatiquement générée pour **cet article même** :
 
-![Image OG auto-générée pour cet article](../../../assets/images/og-sample.png)
+![Image OG auto-générée pour cet article](../../../assets/images/posts/automatic-og-images/og-sample.png)
 
 ## Activer / désactiver
 
@@ -154,7 +154,7 @@ utilisée :
 ```yaml
 ---
 title: Mon article avec un OG personnalisé
-heroImage: ../../../assets/images/mon-og-custom.png
+heroImage: ../../../assets/images/posts/automatic-og-images/mon-og-custom.png
 ---
 ```
 
